@@ -1,5 +1,5 @@
 # FitGenius
-**"Personalized fitness and supplement recommendations powered by AI."**
+**Personalized fitness and supplement recommendations powered by AI**
 
 ## Descripción
 
